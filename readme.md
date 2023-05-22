@@ -42,7 +42,7 @@ pip install torch torchvision torchaudio tensorboard numpy pandas coloredlogs ma
 **a. Get code of BinCola.**
 
 ```python
-git clone https://github.com/BinCola-Future/BinCola.git && cd BinCola
+git clone https://github.com/BinCola-Future/BinCola_Pub.git && cd BinCola_Pub
 ```
 
 **b. Preprocess binary files**
